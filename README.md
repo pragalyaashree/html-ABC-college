@@ -1,7 +1,4 @@
-# html-city-tourism
-### Table-HTML
-### AIM
-To re-create a HTML page based on the given image.
+### Html page to recreate the image:
 ### HTML CODE
 ```
 <!DOCTYPE html>
